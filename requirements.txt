@@ -2,4 +2,3 @@ asyncio
 websockets
 requests
 choices
-string
