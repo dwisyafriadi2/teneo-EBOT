@@ -1,6 +1,5 @@
 asyncio
 websockets
-json
 requests
 random
 string
