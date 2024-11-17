@@ -1,5 +1,5 @@
 asyncio
 websockets
 requests
-random
+choices
 string
